@@ -1,4 +1,6 @@
-# AgroBot
-A robot deployed for Agricultural purposes.
+# CropConnect
+Empowering Agriculture with AWS Cloud Integration
 # Description
-An agricultural robot (a.k.a AgroBot) is a robot deployed for agrarian purposes. The fundamental area of use of robots in horticulture today is at the collecting stage. Arising utilizations of robots or robots in agribusiness incorporate weed control, cloud cultivating, sowing seeds, collecting, ecological checking and soil investigation.
+* Enabled real-time data streaming using AWS IoT Core with a 1-second update frequency, transforming agricultural practices through remote monitoring and control of parameters, leading to a 30% reduction in water usage.
+* Tools & Technologies:
+  * [S](s) 
